@@ -22,3 +22,7 @@
 
 ### :desktop_computer: About Me :
 I am a student of multiplatform application development in Spain <img src="https://images.vexels.com/media/users/3/323625/isolated/preview/084e422aff05aa1ba17925dad9cd5cce-disea-o-plano-de-computadora-de-escritorio.png" width="20" style="vertical-align: middle; margin-bottom: -5px;">.
+
+- :arrow_up: I'm taking a Python course on Udemy.
+
+- :arrow_down: Currently researching unity on live2d models.
