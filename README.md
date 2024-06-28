@@ -46,6 +46,7 @@ I am a student of multiplatform application development in Spain <img src="https
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaiser42&theme=dark&background=000000)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaiser42&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](#)
+
 
 
