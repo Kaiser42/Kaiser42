@@ -18,8 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=Kaiser42&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
-
 ---
 
 ### :desktop_computer: About Me :
@@ -28,3 +26,5 @@ I am a student of multiplatform application development in Spain <img src="https
 - :arrow_up: I'm taking a Python course on Udemy.
 
 - :arrow_down: Currently researching unity on live2d models.
+
+### :hammer_and_wrench: Languages and Tools :
