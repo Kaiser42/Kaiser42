@@ -20,4 +20,4 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :desktop_computer: About Me :
