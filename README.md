@@ -26,7 +26,7 @@ I am a student of multiplatform application development in Spain <img src="https
 - :arrow_up: I'm taking a Python course on Udemy.
 
 - :arrow_down: Currently researching unity on live2d models.
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" style="margin-right: 10px;"/>
