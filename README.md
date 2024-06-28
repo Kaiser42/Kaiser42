@@ -5,7 +5,7 @@
 
 <!-- Badges de redes sociales -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/hicham-laaouni-a269621a4/">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
