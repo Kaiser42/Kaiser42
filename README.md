@@ -49,5 +49,6 @@ I am a student of multiplatform application development in Spain <img src="https
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaiser42&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://github-readme-streak-stats.herokuapp.com?user=Kaiser42&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)
 ### :boom: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser42&layout=compact&theme=vision-friendly-dark)](#)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiser42&show_icons=true&bg_color=00000000)
 
 
