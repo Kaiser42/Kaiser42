@@ -5,7 +5,7 @@
 
 <!-- Badges de redes sociales -->
 <div id="badges" align="center">
-  <a href="https://discord.com">
+<a href="https://discordapp.com/users/refund1139#1234">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
   <a href="">
