@@ -5,6 +5,9 @@
 
 <!-- Badges de redes sociales -->
 <div id="badges" align="center">
+  <a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
