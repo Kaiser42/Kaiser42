@@ -49,6 +49,6 @@ I am a student of multiplatform application development in Spain <img src="https
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaiser42&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://github-readme-streak-stats.herokuapp.com?user=Kaiser42&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaiser42&theme=great-gatsby&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ### :boom: My Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser42&&langs_count=3&layout=compact&theme=vision-friendly-dark)
